@@ -40,7 +40,7 @@
 	<img aling="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 	<img aling="center" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 	<img aling="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-	<img aling="center" alt="dbeaver" src="https://raima.com/wp-content/uploads/dbeaver-1024x416.png" width="100px" height="30px"/>
+	<img aling="center" alt="dbeaver" src="https://content.websitelibrary.com.au/sites/wsl/images/featured/database-management-tool-dbeaver.jpg" width="100px" height="30px"/>
 	<img aling="center" alt="anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
 	<img aling="center" alt="pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
 	<img aling="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
