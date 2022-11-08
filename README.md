@@ -13,7 +13,7 @@
 ![Rafael Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=rafagomes10&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafagomes10&layout=demo&show_icons=true&theme=dracula)](https://github.com/rafagomes10/github-readme-stats)
 
-## Algumas tecnologias que utilizo no meu dia! 👨🏾‍💻
+## Algumas tecnologias que utilizo ou já utilizei! 👨🏾‍💻
 
 <div style="display: inline_block"><br/>
 	<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,7 +30,7 @@
 	
 </div>
 
-## Algumas ferramentas que utilizo no meu dia! 👨🏾‍💻
+## Algumas ferramentas que utilizo ou já utilizei! 👨🏾‍💻
 
 <div style="display: inline_block"><br/>
 	<img aling="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
