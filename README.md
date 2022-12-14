@@ -4,7 +4,6 @@
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dangrek&size=30&pause=1000&color=F7F7F7&center=true&width=500&height=56&lines=Hello!+My+name+is+Rafael+Gomez!+%E2%9C%8C%F0%9F%8F%BE;Student%2C+Developer+Full+Stack!+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gomes-1303ab173/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.gomeez/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/raFFzBR/)
 
 
