@@ -3,6 +3,9 @@
 <samp>
 Hello, I'm Rafael Gomez 👋
 <br/>
+	I am Bachelor in Information Systems and I have some experiences in Frontend and Backend. And I'm looking for more experiences in the area of ​​Technology. I take great pleasure in working in a team, I believe that each person contributes with their own experiences.
+
+<br/>
 
 ## Software Developer! 👨🏾‍💻
 
