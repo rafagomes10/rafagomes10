@@ -7,11 +7,6 @@
 <br/>
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gomes-1303ab173/)
-
-
-![Rafael Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=rafagomes10&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafagomes10&layout=demo&show_icons=true&theme=dracula)](https://github.com/rafagomes10/github-readme-stats)
 
 ## Software Developer! 👨🏾‍💻
 
