@@ -13,7 +13,7 @@
 ![Rafael Gomez GitHub stats](https://github-readme-stats.vercel.app/api?username=rafagomes10&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafagomes10&layout=demo&show_icons=true&theme=dracula)](https://github.com/rafagomes10/github-readme-stats)
 
-## Algumas tecnologias que utilizo ou já utilizei! 👨🏾‍💻
+## Software Developer! 👨🏾‍💻
 
 <div style="display: inline_block"><br/>
 	<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
